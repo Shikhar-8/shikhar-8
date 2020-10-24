@@ -2,7 +2,7 @@
 
 <p>
  <em>
-    I am a Computer Engineering student with interest to build customer centric products that will help make people's life simpler.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>  
+    I am a final year Computer Engineering student with interest to build customer centric products that will help make people's life simpler.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>  
  </em>
   </p>
   
