@@ -18,8 +18,8 @@
 - ⚡ I’m looking to collaborate  with people who share similar gist <br> for developing scalable applications.
 - 😄 I actively conduct coding seminars and workshops in my college.
 - Contact Info= <br>
-  Mobile        +91-8587981876 <br>
-  Email         vrshikhar11@gmail.com <br>
+  Mobile     :-   +91-8587981876 <br>
+  Email      :-   vrshikhar11@gmail.com <br>
  
  <br><br>
 ## Worked With
