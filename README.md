@@ -2,23 +2,21 @@
 
 <p>
  <em>
-    I am a final year Computer Engineering student with interest to build customer centric products that will help make people's life simpler.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>  
+    I am a senior software Engineer with proven expirence in data engineering , front and backend technoligies with interest to build customer centric products that will help make people's life simpler.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25>  
  </em>
   </p>
   
   <img height="350" width="400" align="right" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" />
 <b>About Me:</b>
 
-- 👨‍🎓 I am currently a final year student at <a href="https://pict.edu/">University of Petroleum and Energy Studies</a>
-- 💻 I have worked as a Software Developer intern at Finertia Pvt Ltd and Webisdom Pvt Ltd 
-- 👨‍💻 I am a Full Stack JAVA Developer(Spring MVC + REST API), Mobile App developer(Flutter).
+
 - 👨‍💻I have solved real time problems and got clear understanding <br>of concepts Data structures and Algorithms
 - 💼 I have implemented "Cement Analysis Tool" Mobile Application for <br> <a href="https://www.ncbindia.com/">National Council for Cement and Building Materials, Faridabad,Haryana</a>
 - 💼I am a Certified Oracle infrastructure Associate 2020
 - ⚡ I’m looking to collaborate  with people who share similar gist <br> for developing scalable applications.
 - 😄 I actively conduct coding seminars and workshops in my college.
 - Contact Info= <br>
-  Mobile     :-   +91-8587981876 <br>
+
   Email      :-   vrshikhar11@gmail.com <br>
  
  <br><br>
