@@ -11,8 +11,7 @@
 
 
 - 👨‍💻I have solved real time problems and got clear understanding <br>of concepts Data structures and Algorithms
-- 💼 I have implemented "Cement Analysis Tool" Mobile Application for <br> <a href="https://www.ncbindia.com/">National Council for Cement and Building Materials, Faridabad,Haryana</a>
-- 💼I am a Certified Oracle infrastructure Associate 2020
+
 - ⚡ I’m looking to collaborate  with people who share similar gist <br> for developing scalable applications.
 - 😄 I actively conduct coding seminars and workshops in my college.
 - Contact Info= <br>
